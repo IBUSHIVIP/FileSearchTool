@@ -1,0 +1,8 @@
+D:/Learning_Online/QT/FileSearchTool/build/Desktop_Qt_6_7_3_MSVC2022_64bit_Debug/CMakeFiles/FileSearchTool.dir
+D:/Learning_Online/QT/FileSearchTool/build/Desktop_Qt_6_7_3_MSVC2022_64bit_Debug/CMakeFiles/edit_cache.dir
+D:/Learning_Online/QT/FileSearchTool/build/Desktop_Qt_6_7_3_MSVC2022_64bit_Debug/CMakeFiles/rebuild_cache.dir
+D:/Learning_Online/QT/FileSearchTool/build/Desktop_Qt_6_7_3_MSVC2022_64bit_Debug/CMakeFiles/list_install_components.dir
+D:/Learning_Online/QT/FileSearchTool/build/Desktop_Qt_6_7_3_MSVC2022_64bit_Debug/CMakeFiles/install.dir
+D:/Learning_Online/QT/FileSearchTool/build/Desktop_Qt_6_7_3_MSVC2022_64bit_Debug/CMakeFiles/install/local.dir
+D:/Learning_Online/QT/FileSearchTool/build/Desktop_Qt_6_7_3_MSVC2022_64bit_Debug/CMakeFiles/FileSearchTool_autogen_timestamp_deps.dir
+D:/Learning_Online/QT/FileSearchTool/build/Desktop_Qt_6_7_3_MSVC2022_64bit_Debug/CMakeFiles/FileSearchTool_autogen.dir

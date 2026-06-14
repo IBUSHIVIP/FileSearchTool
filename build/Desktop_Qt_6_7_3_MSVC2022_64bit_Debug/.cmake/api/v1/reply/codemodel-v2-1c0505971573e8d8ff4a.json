@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4875e91bb40212c0d2c7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FileSearchTool",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FileSearchTool::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FileSearchTool-Debug-8d8c506a27ddad24f0ed.json",
+					"name" : "FileSearchTool",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FileSearchTool_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FileSearchTool_autogen-Debug-17fdbe7cc892b45a3870.json",
+					"name" : "FileSearchTool_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FileSearchTool_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FileSearchTool_autogen_timestamp_deps-Debug-bee74c7c914127e7feae.json",
+					"name" : "FileSearchTool_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Learning_Online/QT/FileSearchTool/build/Desktop_Qt_6_7_3_MSVC2022_64bit_Debug",
+		"source" : "D:/Learning_Online/QT/FileSearchTool"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
